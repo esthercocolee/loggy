@@ -4,7 +4,7 @@
 
 The name is a play on "log it": you log each purchase, and Loggy keeps count.
 
-**[▶ Try Loggy](https://claude.ai/artifact/FmJmnmtqeaBLTiPSJz81H3)**: it opens in your browser and works best on a phone. Sign in to Claude to save your own cards and spending, which stay private to you. Without signing in, it runs as a demo and nothing is saved.
+**[▶ Try the Loggy demo](https://claude.ai/artifact/F1PNYS1eRSi19eDcTSa6WU)**: it opens in your browser with sample cards and spending, and works best on a phone. Add purchases, edit cards and switch the charts; nothing is saved, and it resets when you reload.
 
 Many Singapore miles cards earn 4 miles per dollar (mpd) only up to a monthly cap, then drop to 0.4 mpd, and cashback cards have their own caps and minimum spends. With several cards, each with its own cap, reset date and quirks, it's easy to lose track and overshoot a cap without noticing. Loggy shows how much bonus room each card has left this cycle, and doubles as a simple personal finance tracker.
 
